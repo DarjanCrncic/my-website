@@ -1,0 +1,124 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+.top-container {
+  background-color: #e4f9f5;
+  position: relative;
+  padding-top: 100px;
+
+}
+
+.middle-container {
+  padding: 10px;
+}
+
+.contact-me{
+  padding: 40px;
+}
+
+.bottom-container {
+  background-color: #e4f9f5;
+  padding: 40px;
+}
+
+h1 {
+  color: #11999e;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+
+}
+
+h2 {
+  color: #11999e;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+  padding-top: 30px;
+}
+
+h3 {
+  font-family: 'Merriweather', serif;
+
+}
+
+hr{
+  border-top: 7px dotted gray;
+  width: 5%;
+  margin: 5% auto 5% auto;
+}
+
+a:hover{
+  color: #e4f9f5;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 30%;
+  bottom: 300px;
+}
+
+.top-cloud {
+  position: absolute;
+  top: 50px;
+  right: 30%;
+}
+
+.slika_posao{
+  height: 300px;
+}
+
+.profile{
+  padding: 30px;
+}
+
+.skill-row{
+  margin: 70px auto 150px auto;
+  text-align: left;
+  line-height: 2;
+  width: 50%;
+}
+
+.icon-1{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.icon-2{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.skills{
+  padding: 10px;
+}
+
+.footer-link{
+  color:  #11999e;
+  padding: 30px;
+  text-decoration: none;
+  font-family: 'Montserrat', sans-serif;
+}
+.footer-link:hover{
+  color: gray;
+}
+
+.footer-copyright{
+  color: #11999e;
+  margin-top: 50px;
+}
+
+.btn{
+  margin: 30px auto 30px auto;
+  background-color: #11999e;
+  border: 0;
+}
+.btn:hover{
+  border: 0;
+  background-color:  gray;
+}
